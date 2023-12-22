@@ -1,2 +1,2 @@
-# Tugas Membuat Form
-Disini saya akan memberikan file dari pembuatan form registrasi
+# Membuat Form Registrasi
+Disini saya diberikan tugas basic dari Pemrograman Web yaitu pembuatan Form Registrasi
